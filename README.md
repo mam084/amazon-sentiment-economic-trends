@@ -250,14 +250,6 @@ To enhance robustness and predictive reliability, future work should explore mor
 We explored building a weak‐learning ensemble with weighted voting, but realized it would expand the project’s scope too much. Instead, we refocused on our logistic regression model, enhancing its performance by supplying higher-quality data through more comprehensive feature engineering.
 Overall, while this sentiment-driven model is not yet a substitute for formal economic forecasting methods, it opens the door to lightweight, scalable tools that tap into real-time consumer behavior for early signals of economic shifts.
 
-### **Contributions**
-
--**Ann Nguyen**: Codes & core logic developments (data exploration/visualization), preprocessing, feature engineering, model training), provided feedback on README & final report write-up, handling milestone submissions.  
--**Artien Voskanian**:  Project conception (initial idea), data visualization (Milestone 1 visualizations), README revision (Milestone 2 resubmission), project coordination (meetings on task delegation and project direction), and Final Report writing (Discussion and Conclusion sections)  
--**Joanna Tam**: Codes (with different ideas and exploration and writeup), model running,  model reports, feedback on final report.  
--**Matthew Mitchell**: GitHub management (hosting the repo, uploading files, and merging branches), README writing (original Module 2 and 3 submissions as well as the final submission), and Final Report Writing (namely Introduction, Method, and Results sections)
-
-
 ## **Prior Submissions**
 
 - **[Amazon_reviews_exploration.ipynb](./Amazon_reviews_exploration.ipynb)** – Initial data exploration and preprocessing pipeline
