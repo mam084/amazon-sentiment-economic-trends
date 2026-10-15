@@ -4,6 +4,8 @@ Can the tone of millions of Amazon reviews tell us something about the U.S. econ
 
 *Team project for DSC 232R (Big Data Analytics) in the UC San Diego M.S. in Data Science program.*
 
+**My role:** contributed to the analysis code, wrote the project's original README write-up, and co-wrote the final report.
+
 **[Full report (PDF)](./Amazon_Review_Sentiment_as_a_Predictor_of_Economic_Trends.pdf)** · **[Final notebook](./Amazon_reviews_GDP_analysis_final.ipynb)**
 
 ![Modeling pipeline](./figures/Amazon_Data_Pipeline.png)
