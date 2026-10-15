@@ -1,0 +1,12 @@
+pyspark>=3.5
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+textblob
+requests
+beautifulsoup4
+gdown
+jupyter
